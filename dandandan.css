@@ -24,7 +24,12 @@ border-radius: 20%;
 }
 a:hover{
     background-color: rgb(69, 126, 160) ;
+
 }
 img{
     box-shadow: 5px 5px 2px 3px rgb(0, 0, 0);
+}
+#title:hover{
+    background-color: aqua;
+    
 }
